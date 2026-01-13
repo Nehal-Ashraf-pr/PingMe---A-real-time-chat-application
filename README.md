@@ -41,7 +41,7 @@ A real-time chat application built using the MERN stack, Socket.IO, Tailwind CSS
 
 ---
 
-🙋‍♂️ Author
-Nikunj Singla
+🙋‍♂️ 
+Nehal Ashraf
 🛠 Final-year ECE Student | Passionate about Web Dev and DSA
-https://github.com/Nikunj12121
+
